@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["name","console","log"],"mappings":";AACA,IAAMA,EAAO,YACbC,QAAQC,IAAaF,SAAAA,OAAAA","file":"prova_parcel.f5fb97ee.js","sourceRoot":"..","sourcesContent":["// console.log('hola mundo')\nconst name = 'kiticagas';\nconsole.log(`Hello ${name}`)\n"]}
